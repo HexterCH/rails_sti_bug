@@ -1,0 +1,2 @@
+class NormalRecord < Record
+end

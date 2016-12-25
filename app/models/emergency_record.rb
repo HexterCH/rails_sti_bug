@@ -1,0 +1,2 @@
+class EmergencyRecord < Record
+end
